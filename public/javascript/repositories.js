@@ -6,7 +6,7 @@ const repoData = [
     {
         id: "A1",
         title: "minifolio",
-        link: "https://github.com/", // Your Repositories Link
+        link: "https://github.com/CodewithShahriar/minifolio", // Your Repositories Link
         description: "Minifolio - Developer Portfolio",
         language: "JAVASCRIPT",
         circleClr: "js-color", // From ./src/input.css
